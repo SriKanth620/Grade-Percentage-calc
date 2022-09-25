@@ -36,5 +36,5 @@ function Calculate()
     result.style.color ="rgba(0,0,0,.8)";
     result.style.font= "helvatica";
     result.style.textAlign= "center"
-    result.innerText= "Percentage: "+ avg + "\nGrade: " + grade ;
+    result.innerText= "Percentage: "+ avg + "%" + "\nGrade: " + grade ;
 }
